@@ -7,7 +7,7 @@ The webhook should look like this: https://fra1.blynk.cloud/external/api/update?
 
 # Setup and installation
 1. First, on the blink.cloud website, you need to create a device, then get an api token and find the data streams item and create a v1pin, data type:integer. Add an Image Button element to interact with the relay.
-2. Edit the code by entering your API key. Install libraries in the Arduino IDE. Flash it
+2. Download relay.ino file. Edit the code by entering your API key. Install libraries in the Arduino IDE. Flash it
 3. When you turn on the relay, an access point will appear that you need to connect to for configuration.
 4. Connect the board to the relay
 ![0x91m0n wirings](./img.jpg)
